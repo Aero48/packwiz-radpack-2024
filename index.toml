@@ -1,6 +1,330 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aileron.json"
+hash = "73efcccc1de51b429af43e6cfd7520478f765a5dfc49fcad57a903b598f105b1"
+
+[[files]]
+file = "config/allurement-client.toml"
+hash = "41c4ca4a2dc0e88d4ac245f61e81b55b4811d2529aa482e452ee1d68aa68aceb"
+
+[[files]]
+file = "config/allurement-common.toml"
+hash = "7e172760e0b295705251d4bbeedc7c08bc691836f04bfd84a8ae53804ece0c82"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "1a04faa31930e9e63dfbcf39d02f1f0c248404f9ac8f4ce7c9528f424a4e17a4"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "32f47dc6215edb54c48266afda4221cf8499e49f5d4570f6c0fe4943fc2a7f75"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "config/autumnity-common.toml"
+hash = "262941bbb98d9df0fcf0acb0d7f4ccb3441b061874d4f9b89a827bb4b74f4f8f"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
+file = "config/berry_good-common.toml"
+hash = "063288c23cc0302177b68b487872ea9cdd3d3d5f916ddf47d1dcd393cc4a56fa"
+
+[[files]]
+file = "config/blueprint-client.toml"
+hash = "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
+
+[[files]]
+file = "config/buzzier_bees-common.toml"
+hash = "d5ced1e70770f0b38f9ff0ba4d394ba5ef3ba9cb3e9701808abbc26858bd3a99"
+
+[[files]]
+file = "config/clayworks-common.toml"
+hash = "ee32bc84c68b50e5f63b27eff24ba0f6c94f11be81102e5646154d8688603b69"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "a823c528792d2fda677b9a05956a8c609b6279386b6b4b840d992fa43b931698"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "17de85f098b435cd375914b597d74cd02caa10c12e7c49be34bfd28c506d470f"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "b1f685f13c96f50624871714b4ae378ac843719ba56da27a6ce4c26a34cdf755"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "df1dd321cfc6c3ef62c01af6c2138ce55eceab29f04ed5a524c5d0c23e696e14"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "295c4e2ef78409b5289217404503313ac94bf71cc9f5768e459d2e7c56aa5476"
+
+[[files]]
+file = "config/emi.css"
+hash = "ba62dcf0d93d0b7d68be7cdab7fbdca298e03c1a1bb4a00808cea5b10a93f739"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "9486e0728e9e3406d7ea5878cadc46eca9b9ef45fd8cabb74b0f0f092797f500"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "e0dc80d3ca4e93d206333f24554f1e5aef78affcbefe69e237eff15fbaeaadc3"
+
+[[files]]
+file = "config/etched-client.toml"
+hash = "f2ba2f9022471e4b945cf7ed31a3392dd2c62bbee46f4776c47dcc5a812a5915"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "a6cbaf399f7d230af9c81624123f6a06b2b80d694bb1ad3081c8d9517fc51543"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "8f18c21b1ae30a51cbf3e90855c0342416233611084f88ac82ee486ba2d1171e"
+
+[[files]]
+file = "config/exposure-client.toml"
+hash = "ac7c631f4f513e1e1ebc2278033ee4d2fca5adbf97869a9d155c5272c27f3daf"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "61ee0f3df64cc9e6719930a8d11574e1686d370c520bd9e21f82194d60adc401"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "23dac8e8964b311ec6361b30dfb33db572a4bf13657c545bb1b618ffe7f896f1"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1f1ba0769f71894561badcc93946b21e84b4cefa7846f2b7460646bbbb4075d9"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
+
+[[files]]
+file = "config/hauntedharvest-common.toml"
+hash = "e2a5c6eff5bed4d72941fcfe83fe682a9cde017db4b7718864af8aa16d5191d8"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "d1484868aa602e0f283aa2b3e07efedd86cdcf597ad61654b7e8b647fa896b9b"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "fed5a1f6e741725e0946ec0c3f753994ffed14bb7bcbef81e77e1bb960495e31"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "b20fbb97d1bfc96f1d532d36a6bc7ed96e1304c8639fbbd479a6f6d726875702"
+
+[[files]]
+file = "config/map_atlases-client.toml"
+hash = "48c6bb7445316d4bb1d8179ed987c2ea760c563d676d42e7fa0a71688d89c944"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "ce68b8138adb076e21ccbccfe695cbf500441a8d6015d43baef4eadf0df567e0"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "30e8f98a4dae479b465198fd67c14f2631f0f2691c188852a09e780e1ae99156"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "d739ac6f70c1db4cfddd7479b6fdc8f99d924a0cfe0cfc5756a5bfc709c29ecf"
+
+[[files]]
+file = "config/oreganized-common-1.toml.bak"
+hash = "ea2eff04a693f527a23cb5c7177af6706a52a76eddf8b556c44e7021d57d7561"
+
+[[files]]
+file = "config/oreganized-common-2.toml.bak"
+hash = "ea2eff04a693f527a23cb5c7177af6706a52a76eddf8b556c44e7021d57d7561"
+
+[[files]]
+file = "config/oreganized-common-3.toml.bak"
+hash = "ea2eff04a693f527a23cb5c7177af6706a52a76eddf8b556c44e7021d57d7561"
+
+[[files]]
+file = "config/oreganized-common.toml"
+hash = "ea2eff04a693f527a23cb5c7177af6706a52a76eddf8b556c44e7021d57d7561"
+
+[[files]]
+file = "config/personality-client.toml"
+hash = "b1f773cc87cd02fc632dd37a1cde0c510076f07a2fac6d2e8c31bcc66cc0bc84"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "1d80ead2b360361187122f1490a8dae746a03f4a46c54d22c466472b3f1a1851"
+
+[[files]]
+file = "config/smarterfarmers-common.toml"
+hash = "dc0500a85686e0727a7be9bc3913aee67533a6caaa9b6b553492165490f2375d"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "f6b78f006cda8fce3d0d22f1821119b8cbe84974434414abcde7f58dd0c4e14b"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "4556efe0a2b2f76d88067f590cea783eba6d0d7445ebcaa0dfb3a9535fbfed84"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "1e4fa45f69d4f8e8b959a4c98f84b732568ccb2d9554d8caa5ae2fc07982a00d"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "b25372a3bf1a5caebd9ce9d965c112e1c3f35df7e334174dce7796dbfbbe401f"
+
+[[files]]
+file = "config/sullysmod-client.toml"
+hash = "9b8a34e62fc8c6f47be232d3d50c5d7bb7c255c93e98779f41e35f6c288a755a"
+
+[[files]]
+file = "config/sullysmod-common.toml"
+hash = "aeac1cb954c6853903dd7aa9f6ab1bf0fdd0963017bf87bfbd2af620b4c3db95"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "5ea2a5a863d51ee8f4765b2848c85b46c8a1149153beb0191511f9dee4f058d1"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "7ae2ba0bd23057c39793a7fe5b91e1388f4e092cf9128e649ad0297ab25c7c7a"
+
+[[files]]
+file = "config/toastcontrol-common.toml"
+hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "e7906906fc8baf09ee5ff5407223d31039a04cbb4798b0b874223204de9e489f"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "9e13071b759bbade83c344aa9989daf18f06d0e0d9c0fd09722a3a79a675e935"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a67ed5614daa4a9bd650ff2db874bdb2f586c0491c89ee06086231749c0287b4"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
+file = "config/woodworks-common.toml"
+hash = "607a8880f3c5fa9e0d0e5eb33bf3126f8e7f89fc8bb520f476cf07ff24f6ad12"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/aero.js"
+hash = "4af4202c514ed9886ab2217e1c6abac5edae6dd55c9b4689a8d2def5ad512b22"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "080dfd5e32b3ee5c15a3cd868192b15628f6b4b31417ce3ff7410809307ba21e"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "dead99902f451f7211e93a54a01429aec668326641504cddc973dc335eee3f6d"
+
+[[files]]
+file = "kubejs/server_scripts/aero.js"
+hash = "9d9bf8fe0f76cd4ed2b33af362c92b972fef7ff22f6feb51cd29b856973c040a"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "c7fba85545a93ad9279f8e450310cbb5b2479701d310a8f6005538605a4ef34c"
 metafile = true
@@ -259,3 +583,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"

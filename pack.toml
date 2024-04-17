@@ -1,0 +1,13 @@
+name = "Rad Pack 2024"
+author = "Aero48"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "57c67c80ba378fee162c112b5033fb32d14a427ea70f513dd1b51a2c45711642"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

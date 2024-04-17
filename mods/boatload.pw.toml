@@ -1,0 +1,13 @@
+name = "Boatload"
+filename = "boatload-1.20.1-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hevpK888/versions/Rx4R91f3/boatload-1.20.1-5.0.0.jar"
+hash-format = "sha1"
+hash = "91745577b70973023d0f52dec75b0bfbd88173c1"
+
+[update]
+[update.modrinth]
+mod-id = "hevpK888"
+version = "Rx4R91f3"

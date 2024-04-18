@@ -325,11 +325,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "c7fba85545a93ad9279f8e450310cbb5b2479701d310a8f6005538605a4ef34c"
-metafile = true
-
-[[files]]
 file = "mods/allurement.pw.toml"
 hash = "ade685fecb6727ffbb0dca173fbab2ac74bf3760af8b2325d437382195da9baf"
 metafile = true

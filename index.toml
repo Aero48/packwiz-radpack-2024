@@ -335,6 +335,11 @@ hash = "ade685fecb6727ffbb0dca173fbab2ac74bf3760af8b2325d437382195da9baf"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "7c05e86eb30a83acb4186b0f0771baf21b7107fb1d0cc0d5d3030405dd15a60c"
 metafile = true
@@ -385,6 +390,11 @@ hash = "d922768e2b70ad98fcbfb9954f14d1111f30f7e526e76ae864c3b27c33d3aaeb"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d36f49cad940db9f2b494c77a0b918529227127e91a0986da6ea11bcc1bceda4"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "2a71cabe853f118c648e4121c3e8f47b07792415136aefbff15ec236ef6ec3c6"
 metafile = true
@@ -402,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "50f2833b371acf82a458eb4d6b72fcc3abcdd7a334f731fdf4f04590fdf3c84a"
 metafile = true
 
 [[files]]

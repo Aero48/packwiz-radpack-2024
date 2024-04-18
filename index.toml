@@ -306,7 +306,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/aero.js"
-hash = "4af4202c514ed9886ab2217e1c6abac5edae6dd55c9b4689a8d2def5ad512b22"
+hash = "5aecc16d4c096994af8b5ea9dd049cf9eb1622dea5e8a926f514433909fc87c5"
 
 [[files]]
 file = "kubejs/config/client.properties"

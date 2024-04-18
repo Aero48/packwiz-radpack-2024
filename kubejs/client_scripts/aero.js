@@ -6,7 +6,7 @@ JEIEvents.hideItems((event) => {
   event.hide("farmersdelight:fried_egg");
 
   //Remove FD Milk Bottle
-  event.hide("farmersdelight:milk_bottle");
+  //event.hide("farmersdelight:milk_bottle");
 
   //Rope
   event.hide("farmersdelight:rope");

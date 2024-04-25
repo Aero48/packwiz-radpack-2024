@@ -390,6 +390,11 @@ hash = "d36f49cad940db9f2b494c77a0b918529227127e91a0986da6ea11bcc1bceda4"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "2a71cabe853f118c648e4121c3e8f47b07792415136aefbff15ec236ef6ec3c6"
 metafile = true
@@ -415,6 +420,16 @@ hash = "50f2833b371acf82a458eb4d6b72fcc3abcdd7a334f731fdf4f04590fdf3c84a"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "a0c86423073eeea3231cfc31b6b53f7e30c55a3332f3b7151dac9fe00213e78f"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "17ec2654b56474c47aad1e3f0a107b610c8304d10126383e1e316a15315fcca4"
 metafile = true
@@ -431,12 +446,17 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a544be495fded3ac4ffa072d41ffdc020002f80ca5afe7560a40f4d1cdead904"
+hash = "baa3965a70aa9de035d830ef10d6ad6be3574baf01d8dab7e4329675fd71c886"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "fc0734b7a17fceaf0c4a363527a845cf6c524824921248df0ee2a102ff0ee5e3"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
 
 [[files]]
@@ -511,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
+hash = "7afafccec842ffdc2cb98052f7bc90bfa7ef9a0b307d96b409fb13e892ef86d1"
 metafile = true
 
 [[files]]
@@ -585,6 +605,11 @@ hash = "d8e60b645a09fbe279a2aab94de7b3ee0425c0d50eaf5b4cfac8d9332619ce86"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "05bf4c054b1346db1696d76ebbbea07fc30668251a3c78905a98b3045df4dbf7"
+metafile = true
+
+[[files]]
 file = "mods/woodworks.pw.toml"
 hash = "1f80ab2adb2d6a9785d51a56a458a7fdfb4f309e1e2fc49f76ba00238982850d"
 metafile = true
@@ -592,4 +617,14 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "1c5e6ffa19e42635cee1c67ddcb733dd2ec51d4abdd2f9a97230327d0982d160"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vintage-photography.pw.toml"
+hash = "1d12be17c5b4787253bfd37ca455871b04f6d1c6db4d61b428e433c132452e07"
 metafile = true

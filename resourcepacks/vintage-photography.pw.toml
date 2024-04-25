@@ -1,0 +1,13 @@
+name = "Vintage Photography"
+filename = "Vintage-Photography.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d2ENXic5/versions/AaJv01tl/Vintage-Photography.zip"
+hash-format = "sha1"
+hash = "62514da4ee6522b657400330fc7694454f5e908e"
+
+[update]
+[update.modrinth]
+mod-id = "d2ENXic5"
+version = "AaJv01tl"

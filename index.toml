@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/autumnity.pw.toml"
-hash = "dd54ba8e659253b1467cfbed26b5e8ba01d70e1470d5967633cc9f6aacdef83b"
+hash = "ad9187e9de71c0259c492269a0bdf2959c98a86822bd8575678172620fabd0dd"
 metafile = true
 
 [[files]]
@@ -371,12 +371,12 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "36cfe23c658f8819d1857769c59829f22f98bc594a65eb97f8df4bdd6c432ec5"
+hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
 metafile = true
 
 [[files]]
 file = "mods/boatload.pw.toml"
-hash = "46265829a5b6496488616683cd5697ae77696728e295490331abe1a8814a6414"
+hash = "40ab7ade1fde2b98ce6fc644db5b8c4ca7c3aaabfbe7c45a55f7bdc019870351"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/clayworks.pw.toml"
-hash = "2a71cabe853f118c648e4121c3e8f47b07792415136aefbff15ec236ef6ec3c6"
+hash = "d22e3505597e1e469d8d8c3df5c51c4bfca59c3a3f95a29f4014a5107c0380b8"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/incubation.pw.toml"
-hash = "d51908cf27150ac367255a4d6d82bbb093921bffb2c2345280c23518becd8643"
+hash = "74f82c1ec7e2cd5ca741a4537c3824c0a60a7c39534a58427836efdebae402e1"
 metafile = true
 
 [[files]]
@@ -520,6 +520,11 @@ hash = "aab948eb94089a87e5734523b7a1dd9b3eec1d6e03ae944214ed2b2644b7a4ed"
 metafile = true
 
 [[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "d01255f11201634a26e318142a28fe47705388c27d2c44e0bc3fd69593870a00"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
@@ -531,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
@@ -595,6 +600,11 @@ hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "427a4ac2edeca19b458978f01611b2be1179e325b609e3d56241f97c8415a789"
+metafile = true
+
+[[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "d8e60b645a09fbe279a2aab94de7b3ee0425c0d50eaf5b4cfac8d9332619ce86"
 metafile = true
@@ -606,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodworks.pw.toml"
-hash = "1f80ab2adb2d6a9785d51a56a458a7fdfb4f309e1e2fc49f76ba00238982850d"
+hash = "d8b1fdcc4d8437ed8a69ef63821a9be7e99660e33cbd4166addab7f32548d6f3"
 metafile = true
 
 [[files]]

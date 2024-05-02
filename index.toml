@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "7c05e86eb30a83acb4186b0f0771baf21b7107fb1d0cc0d5d3030405dd15a60c"
+hash = "a7316069c85e9892b8acee0cc09555fcd62c2396d5ca220d3130b2d540eafed4"
 metafile = true
 
 [[files]]
@@ -431,12 +431,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "17ec2654b56474c47aad1e3f0a107b610c8304d10126383e1e316a15315fcca4"
+hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+hash = "6a2fb6d74d05fea350703d471d47b98bed433a077e3afcf061d50523ef4690f8"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cee573e9be460a435e485db07c04d8cf652b149007062cc74a5eee977dcf86b0"
+hash = "5eb8fee6e36f11543c62dfe95958db35d2721129e9293f3202cf4afb51d8ce00"
 metafile = true
 
 [[files]]
@@ -516,12 +516,12 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
+hash = "ef6d6e97e8029624bdf66df96571b96df73e4fe0d3a4bd0398f2eb973575fc79"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "aab948eb94089a87e5734523b7a1dd9b3eec1d6e03ae944214ed2b2644b7a4ed"
+hash = "18e9cb3233babb382a88f288f81ee9414daa2b5186ec30be47e6170e860361f9"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7afafccec842ffdc2cb98052f7bc90bfa7ef9a0b307d96b409fb13e892ef86d1"
+hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "74086fbcc6777ae5c6d5542a11529ba15be9839384b42be366ece980511151d2"
+hash = "ba1617d3d404b9d35f535ada261ab12617f7aaa3ef227b7164718b46fc8a5a24"
 metafile = true
 
 [[files]]

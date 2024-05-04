@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a7316069c85e9892b8acee0cc09555fcd62c2396d5ca220d3130b2d540eafed4"
+hash = "476350d26c377ffb72133ff1f6e560892b563447c0ad2cba7e1f6d0218438ebb"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6a2fb6d74d05fea350703d471d47b98bed433a077e3afcf061d50523ef4690f8"
+hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "baa3965a70aa9de035d830ef10d6ad6be3574baf01d8dab7e4329675fd71c886"
+hash = "295e3ca628285b234f8f83e3f3b8ee2e6b8cfe03787468ee013778e564ecd413"
 metafile = true
 
 [[files]]
